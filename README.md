@@ -11,9 +11,7 @@ SSH clone URL: ssh://git@git.jetbrains.space/olegbtest/test/DockerTest.git
 HTTPS clone URL: https://git.jetbrains.space/olegbtest/test/DockerTest.git
 
 
-#test
-−These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-−changed line
+
 ## Prerequisites
 
 What things you need to install the software and how to install them.
