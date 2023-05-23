@@ -10,7 +10,7 @@ SSH clone URL: ssh://git@git.jetbrains.space/olegbtest/test/DockerTest.git
 
 HTTPS clone URL: https://git.jetbrains.space/olegbtest/test/DockerTest.git
 
-added line
+added modified line
 
 ## Prerequisites
 
